@@ -1,0 +1,25 @@
+h2{
+    background-color: rgb(175, 241, 175); color:green; text-align: center;
+}
+h3{
+    background-color: rgb(214, 214, 240); color:rgb(99, 6, 99);text-align: center;
+}
+ol{
+    background-color:rgb(223, 223, 162); color:darkmagenta;
+}
+.hu{
+    background-color: lightgray; color:red;text-align: center;
+}
+blockquote{
+    background-color: rgb(191, 230, 176); color:blue;
+}
+.hue{
+    background-color: rgb(247, 199, 128); color: blueviolet;text-align: center;
+}
+dl{
+    background-color: rgb(218, 176, 222); color:maroon;
+}
+body{
+    border:10px solid blue;
+    padding:20px;
+}
