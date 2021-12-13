@@ -1,0 +1,22 @@
+body{
+    background-color: lightgreen;
+}
+.navbar{
+    background-color:white ;
+    height:40px;
+}
+.navbar ul{
+    display:flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding:8px;
+    display: block;
+}
+
+ .navbar ul li a:hover {
+    background-color: #555;
+    color: white;
+  }
